@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "pastel_chalks:block/blue_chalk"
+  },
+  "render_type": "solid"
+}

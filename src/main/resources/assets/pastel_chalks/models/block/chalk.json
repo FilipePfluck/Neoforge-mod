@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pastel_chalks:block/chalk",
+    "up": "pastel_chalks:block/chalk",
+    "north": "pastel_chalks:block/chalk",
+    "east": "pastel_chalks:block/chalk",
+    "south": "pastel_chalks:block/chalk",
+    "west": "pastel_chalks:block/chalk",
+    "particle": "pastel_chalks:block/chalk"
+  },
+  "render_type": "solid"
+}

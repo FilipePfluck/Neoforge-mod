@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pastel_chalks:block/gray_chalk_slab"
+    },
+    "type=top": {
+      "model": "pastel_chalks:block/gray_chalk_slab_top"
+    },
+    "type=double": {
+      "model": "pastel_chalks:block/gray_chalk_slab_full"
+    }
+  }
+}

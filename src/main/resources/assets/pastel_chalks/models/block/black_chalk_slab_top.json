@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "pastel_chalks:block/black_chalk",
+    "top": "paste_chalks:block/black_chalk",
+    "side": "paste_chalks:block/black_chalk"
+  },
+  "render_type": "solid"
+}

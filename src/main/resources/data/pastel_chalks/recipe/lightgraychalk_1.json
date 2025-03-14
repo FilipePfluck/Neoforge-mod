@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chalk_blocks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    },
+    {
+      "item": "pastel_chalks:chalk"
+    }
+  ],
+  "result": {
+    "id": "pastel_chalks:light_gray_chalk",
+    "count": 8
+  }
+}

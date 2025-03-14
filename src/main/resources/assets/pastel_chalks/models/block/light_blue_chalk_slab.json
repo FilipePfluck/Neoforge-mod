@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "pastel_chalks:block/light_blue_chalk",
+    "top": "pastel_chalks:block/light_blue_chalk",
+    "side": "pastel_chalks:block/light_blue_chalk"
+  },
+  "render_type": "solid"
+}

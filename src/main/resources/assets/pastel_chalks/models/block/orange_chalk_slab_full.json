@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "pastel_chalks:block/orange_chalk",
+    "top": "pastel_chalks:block/orange_chalk",
+    "side": "pastel_chalks:block/orange_chalk"
+  },
+  "render_type": "solid"
+}
